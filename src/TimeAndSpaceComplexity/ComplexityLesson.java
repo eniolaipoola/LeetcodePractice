@@ -43,6 +43,7 @@ public class ComplexityLesson {
 
         return result;
 
+        //the time complexity for this algorithm = O(2^n)
     }
 
 }
